@@ -3,7 +3,7 @@ h1,h2,h3{text-transform:uppercase;color:#960}
 h2{margin-top:2em}
 a{color:#960}
 
-.alert{padding:1em 2em;font-weight:bold;background:moccasin}
+.alert{padding:1em;font-weight:bold;background:moccasin}
 
 .links{padding:0;line-height:2.7em}
 .links li{list-style:none;display:inline-block}
