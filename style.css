@@ -1,7 +1,9 @@
 body,td,th{font-family:Arial, Helvetica,sans-serif;font-size:12px;color:#960}
-body{background-color:#ECE9D8}
+body{background-color:#ECE9D8;max-width:800px;margin:0 auto}
 a:link{color:#3300FF}
 a:visited{color:#3399FF}
 a:hover{color:#CC0000}
 table{border:0;border-collapse:collapse}
 td{padding:0}
+.alert{padding:1em 2em;font-weight:bold;background-color:moccasin}
+h2,h3{text-transform:uppercase}
