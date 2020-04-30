@@ -1,11 +1,10 @@
-body{font-family:sans-serif;color:#333;max-width:800px;margin:0 auto;padding:1em}
+body{font-family:sans-serif;color:#333;max-width:800px;margin:0 auto;padding:2em 1em}
 h1,h2,h3{text-transform:uppercase;color:#960}
 h2{margin-top:2em}
 a{color:#960}
+
 .alert{padding:1em 2em;font-weight:bold;background:moccasin}
 
 .links{padding:0;line-height:2.7em}
 .links li{list-style:none;display:inline-block}
 .links a{padding:.5em 1em;margin-right:.3em;background:moccasin}
-
-.easter-egg{font-size:small;margin:1000px 0 160px 0;text-align:center}
