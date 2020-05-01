@@ -1,4 +1,6 @@
-# wiganheritage.github.io
+# the Wigan Environment and Heritage Network website source code
 
-Static website for the Wigan Environment and Heritage Network publishing meeting minutes,
+Organisations static website for publishing of meeting minutes,
 time and place for next meeting and links to related organisations.
+
+https://wiganheritage.github.io
