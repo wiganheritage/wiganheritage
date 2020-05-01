@@ -1,4 +1,4 @@
-# The Wigan Environment & Heritage Network website source
+# The Wigan Environment & Heritage Network website sources
 
 Organisations static website for publishing of meeting minutes,
 time and place for next meeting and links to related organisations.
