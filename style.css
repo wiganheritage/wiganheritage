@@ -1,6 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&display=swap');
 
-body{font-family:'Libre Baskerville', serif;color:#222;max-width:800px;margin:0 auto;padding:2em 1em}
+body{font-family:'Libre Baskerville',serif;color:#222;max-width:800px;margin:0 auto;padding:2em 1em}
 h1,h2,h3{color:#960}
 h2{margin-top:2em}
 a{color:#960}
@@ -11,7 +11,8 @@ a{color:#960}
 .links li{list-style:none;display:inline-block}
 .links a{padding:.5em 1em;margin-right:.3em;background:moccasin}
 
-footer{border-top:1px solid #960;margin-top:5em}
 header img{width:100%;position:relative;top:-2em}
 header h1{text-align:center;margin-top:0;text-transform:uppercase}
 header p{text-align:center;font-style:italic}
+
+footer{margin-top:6em}
