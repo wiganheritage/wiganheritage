@@ -1,4 +1,4 @@
 @import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,600;1,400&display=swap');
-body{font-family:'Playfair Display',serif;color:#222;max-width:800px;margin:0 auto;padding:2em 1em}
+body{font-family:'Playfair Display',serif;color:#222;max-width:800px;margin:0 auto;padding:1em}
 h1,h2,h3,a{color:#bb3b0e}
-a:nth-of-type(1){text-transform:uppercase;background:#bb3b0e;color:white;text-decoration:none;padding:.3em .5em}
+a:nth-of-type(1){display:inline-block;text-transform:uppercase;background:#bb3b0e;color:white;text-decoration:none;padding:.3em .5em}
